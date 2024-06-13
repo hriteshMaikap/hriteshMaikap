@@ -32,7 +32,7 @@ I am a fervent machine learning enthusiast with an endless thirst for the newest
 
 ## How to Reach Me
 - 🔗 LinkedIn: [Hritesh Maikap](https://www.linkedin.com/in/hritesh-maikap-7aaa76246/)
-- 📧 Email: hriteshkumarmaikap@example.com
+- 📧 Email: hriteshkumarmaikap@gmail.com
 
 ## Pronouns
 - 😄 Pronouns: He/Him
