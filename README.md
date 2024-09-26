@@ -40,6 +40,9 @@ I am a fervent machine learning enthusiast with an endless thirst for the newest
 ## Fun Fact
 - ⚡ Fun fact: I have hosted numerous shows over the past seven years, which has not only improved my public speaking skills but also allowed me to build strong connections with diverse audiences.
 
+## Badges
+[![An image of @hriteshmaikap's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hriteshmaikap)](https://holopin.io/@hriteshmaikap)
+
 Together, let's explore the exciting worlds of learning, cooperation, and technology. 🌟
 
 <!---
