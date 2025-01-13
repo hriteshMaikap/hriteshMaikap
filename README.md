@@ -99,7 +99,7 @@ mindmap
 
 <div align="center">
   <a href="https://github.com/IEEE-SB-VIT-Pune/ieeeChat">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IEEE-SB-VIT&repo=ieeeChat&theme=radical" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IEEE-SB-VIT-Pune&repo=ieeeChat&theme=radical" />
   </a>
   <a href="https://github.com/hriteshmaikap/inspir">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hriteshmaikap&repo=inspir&theme=radical" />
@@ -114,8 +114,6 @@ mindmap
   <p>💡 Open for collaborations and interesting projects!</p>
   <p>🌟 Let's build something amazing together!</p>
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
