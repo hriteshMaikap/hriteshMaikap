@@ -45,8 +45,8 @@ class HriteshMaikap:
 ## 💼 What I'm Working On
 
 - 🔭 Currently working on **Geospatial AI Projects at ISRO**
-- 🌱 Learning **Advanced LLM Architectures and Vector Databases**
-- 👯 Looking to collaborate on **AI/ML Projects**
+- 🌱 Learning **Backend Development, Advanced LLM Architectures and AI Based Projects**
+- 👯 Looking to collaborate on **ML and Backend based projects**
 - 💬 Ask me about **Python, Machine Learning, Backend Development**
 
 ---
