@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Hritesh Maikap 👋</h1>
-<h3 align="center">A Backend Wizard 🧙‍♂️ & AI Explorer 🚀 | Building the Future with Code</h3>
+<h3 align="center">A Backend Developer & AI Explorer 🚀 | Building the Future with Code</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hritesh-maikap/">
