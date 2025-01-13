@@ -1,51 +1,124 @@
-# 👋 Hi, I’m @hriteshMaikap
+<h1 align="center">Hi there! I'm Hritesh Maikap 👋</h1>
+<h3 align="center">A Backend Wizard 🧙‍♂️ & AI Explorer 🚀 | Building the Future with Code</h3>
 
-## About Me
-I am a fervent machine learning enthusiast with an endless thirst for the newest technological advancements, currently pursuing a B.Tech in Artificial Intelligence and Data Science. My journey in tech spans over seven years, during which I have honed my communication skills by hosting numerous tech and non-tech shows. My passion extends beyond coding to organizing engaging technical events, speeches, and workshops that foster community and innovation.
+<div align="center">
+  <a href="https://www.linkedin.com/in/hritesh-maikap/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/hriteshmaikap">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:hritesh.maikap@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://kaggle.com/hriteshmaikap">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</div>
 
-## Interests
-- 🤖 Artificial Intelligence
-- 📈 Machine Learning
-- 💬 Natural Language Processing
-- 📊 Data Science
-- 🧩 Data Structures and Algorithms
-- 🌐 Community Building and Technical Event Planning
+---
 
-## Current Learning Focus
-- 🔍 Advanced Machine Learning Techniques
-- 🗣️ Natural Language Processing
-- 🖥️ Data Structures and Algorithms
+## 🚀 About Me
 
-## Projects
-1. **Class Imbalance Handling using MAD and ADASYN**
-   - 🛠️ Developed methods to address class imbalance in datasets, enhancing model performance and reliability.
-2. **Heart Disease Prediction using K Fold Cross Validation and Ensemble Model**
-   - ❤️ Implemented an ensemble model with K Fold Cross Validation to predict heart disease with high accuracy.
-3. **Geospatial Flood Susceptibility Mapping**
-   - 🌊 Utilized geographical parameters, netCDF4 data, a custom nearest neighbor algorithm, and MLP for flood susceptibility mapping.
-4. **Personalized GitHub Repository Recommendation**
-   - 📚 Created a recommendation system using TFIDF, LDA, and BERT, coupled with custom similarity matching and clustering algorithms.
+```python
+class HriteshMaikap:
+    def __init__(self):
+        self.role = "Software Developer & AI Enthusiast"
+        self.education = "BE in AI & Data Science @ VIT Pune"
+        self.cgpa = 9.30
+        self.current_work = "Project Intern @ ISRO"
+        self.interests = ["Backend Development", "Machine Learning", "LLMs"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
+```
 
-## Collaboration
-- ✌️ I’m looking to collaborate on innovative AI and ML projects that push the boundaries of technology.
-- 🤝 If you are working on a project that could benefit from my expertise or if you have an exciting idea for collaboration, let's connect!
+---
 
-## How to Reach Me
-- 🔗 LinkedIn: [Hritesh Maikap](https://www.linkedin.com/in/hritesh-maikap-7aaa76246/)
-- 📧 Email: hriteshkumarmaikap@gmail.com
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,flask,django,pytorch,tensorflow,docker,postgres,git,linux,vscode,postman&perline=6" />
+</div>
 
-## Pronouns
-- 😄 Pronouns: He/Him
+---
 
-## Fun Fact
-- ⚡ Fun fact: I have hosted numerous shows over the past seven years, which has not only improved my public speaking skills but also allowed me to build strong connections with diverse audiences.
+## 💼 What I'm Working On
 
-## Badges
-[![An image of @hriteshmaikap's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hriteshmaikap)](https://holopin.io/@hriteshmaikap)
+- 🔭 Currently working on **Geospatial AI Projects at ISRO**
+- 🌱 Learning **Advanced LLM Architectures and Vector Databases**
+- 👯 Looking to collaborate on **AI/ML Projects**
+- 💬 Ask me about **Python, Machine Learning, Backend Development**
 
-Together, let's explore the exciting worlds of learning, cooperation, and technology. 🌟
+---
 
-<!---
-hriteshMaikap/hriteshMaikap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🏆 Achievements & Projects
+
+### 🌟 ISRO BAH PS-12 Winner (Top 5)
+- Built a Geospatial Context-Aware Chatbot using RAG architecture
+- Reduced query time by 50% using optimized vector search
+- Tech: Django, PostGIS, BERT, Langchain, Groq, Mixtral
+
+### 🤖 INSPIR: Image Captioning System
+- Multi-model approach using CLIP, BLIP, GIT, ViT-GPT2
+- Implemented advanced ranking system for caption quality
+- Integrated with Apache Beam for scalable processing
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hriteshmaikap&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hriteshmaikap&layout=compact&theme=radical" height="165"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+mindmap
+  root((Hritesh))
+    Backend
+      Flask/Django
+      APIs
+      Databases
+    AI/ML
+      LLMs
+      RAG
+      Vision
+    DevOps
+      Docker
+      Git
+      Beam
+```
+
+---
+
+## 🌟 Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/IEEE-SB-VIT-Pune/ieeeChat">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=IEEE-SB-VIT&repo=ieeeChat&theme=radical" />
+  </a>
+  <a href="https://github.com/hriteshmaikap/inspir">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hriteshmaikap&repo=inspir&theme=radical" />
+  </a>
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <p>💡 Open for collaborations and interesting projects!</p>
+  <p>🌟 Let's build something amazing together!</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+---
