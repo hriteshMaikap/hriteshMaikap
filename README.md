@@ -25,7 +25,6 @@ class HriteshMaikap:
     def __init__(self):
         self.role = "Software Developer & AI Enthusiast"
         self.education = "BE in AI & Data Science @ VIT Pune"
-        self.cgpa = 9.30
         self.current_work = "Project Intern @ ISRO"
         self.interests = ["Backend Development", "Machine Learning", "LLMs"]
         
