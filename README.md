@@ -1,5 +1,3 @@
-https://drive.google.com/drive/folders/1h8v5aaVN-jDp3jr4cOjRJmAXw9mMOQDa?usp=drive_link
-
 <h1 align="center">Hi there! I'm Hritesh Maikap 👋</h1>
 <h3 align="center">A Backend Developer & AI Explorer 🚀 | Building the Future with Code</h3>
 
