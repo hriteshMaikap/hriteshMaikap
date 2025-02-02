@@ -25,7 +25,7 @@ class HriteshMaikap:
     def __init__(self):
         self.role = "Software Developer & AI Enthusiast"
         self.education = "B.Tech in AI & Data Science @ VIT Pune"
-        self.current_work = "Project Intern @ ISRO"
+        self.work = "ex-Project Intern @ ISRO"
         self.interests = ["Backend Development", "Machine Learning", "LLMs"]
         
     def say_hi(self):
@@ -43,7 +43,7 @@ class HriteshMaikap:
 
 ## 💼 What I'm Working On
 
-- 🔭 Currently working on **Geospatial AI Projects at ISRO**
+- 🔭 Currently working on **RAG Based Chatbot for Ancient Indian Scriptures**
 - 🌱 Learning **Backend Development, Advanced LLM Architectures and AI Based Projects**
 - 👯 Looking to collaborate on **ML and Backend based projects**
 - 💬 Ask me about **Python, Machine Learning, Backend Development**
